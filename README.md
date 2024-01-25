@@ -8,3 +8,9 @@ git status
 git branch -r
 ```
 
+Vježbe se nalaze na granama <strong>0X_vjezba</strong>.
+
+```sh
+git checkout 0X_vjezba
+```
+
