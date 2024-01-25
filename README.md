@@ -1,5 +1,5 @@
 # CRTA_vjezbe
-
+Potrebno je napraviti radnu mapu repozitorija te klinirati udaljeni repozitorij:
 ```sh
 mkdir as_git_vjezbe
 cd as_git_vjezbe
