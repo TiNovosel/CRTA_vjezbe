@@ -1,4 +1,4 @@
-# CRTA_vjezbe: Osnovne grananja
+# CRTA_vjezbe_04: Osnovne grananja
 
 S granama smo se već susreli 
 
