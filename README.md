@@ -1,8 +1,16 @@
-# CRTA_vjezbe
-echo "# CRTA_vjezbe" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:TiNovosel/CRTA_vjezbe.git
-git push -u origin main
+# CRTA_vjezbe: Korisni alati
+
+Za bolji predgled nad sadržajem repozitorija i promjena koje su aktivne u njemu isprobajte `tig` paket 
+
+```sh
+sudo apt install tig
+```
+
+Prebacimo se u granu s više commit-ova i isprobamo mogućnosti paketa:
+
+```sh
+git switch 04_vjezba
+tig
+```
+
+
