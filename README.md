@@ -1,8 +1,16 @@
-# CRTA_vjezbe
-echo "# CRTA_vjezbe" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:TiNovosel/CRTA_vjezbe.git
-git push -u origin main
+# CRTA_vjezbe_03
+
+
+
+### Zadatak
+
+1. Koristite `git status` da vidite na kojoj ste grani.
+2. Kako izgleda `git log`?
+```sh
+git status
+git log
+```
+3. Kreirajte datoteku
+```sh
+touch ime_datoteke.txt
+```
