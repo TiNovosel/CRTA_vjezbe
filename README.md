@@ -11,7 +11,7 @@ git branch moja_grana
 4. Ponovno koristite `git branch` da vidite novostvorenu granu.
 5. Koristite `git switch moja_grana` da se prebacite na vašu novu granu.
 ```sh
-git switch moja_grana
+git switch -c moja_grana
 ```
 6. Kako se mijenja izlaz iz `git status` kada se prebacujete između `04_vjezbe` grane i nove grane koju ste stvorili?
 7. Kako se radni direktorij mijenja kada se mijenjate između dvije grane?
