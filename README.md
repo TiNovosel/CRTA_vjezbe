@@ -18,10 +18,10 @@ Vježbe su zamišljene na način da se zadaci nalaze na različitim granama. Sva
 - `main` - Na main grani se trenutno nalazite.
 - `01_vjezba` - Osnovne komand: dodavanje datoteke, prvi commit i push(stash)
 - `02_vjezba` - git un/stage vježba
-- `03_vjezba` - 
-- `04_vjezba` - 
-- `05_vjezba` - 
-- `06_vjezba` - 
+- `03_vjezba` - Istrazivanje .git foldera
+- `04_vjezba` - Osnove Grananja
+- `05_vjezba` - Alati 
+ 
 
 
 
