@@ -30,7 +30,7 @@ git status
 ```
 7. `commit` datoteku u repozitorij 
 ```sh
-git commit -m "obješenje commita"
+git commit -m "objašnjenje commita"
 git stash
 ```
 8. Kako sada izgleda `git status`?
