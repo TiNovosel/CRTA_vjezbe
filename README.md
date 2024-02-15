@@ -42,7 +42,7 @@ Evo detaljnog pregleda na pojedine datoteke i foldere koji se obično nalaze unu
 cat config
 ```
 
-2. **HEAD** - Referenca na trenutnu granu ili commit koji je izvadan.
+2. **HEAD** - Referenca na trenutnu granu ili commit.
 
 
 ```sh
