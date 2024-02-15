@@ -30,7 +30,7 @@ git commit -m "dodajem moju skriptu na udaljeni repozitorij"
 ```sh
 git checkout 04_vjezba
 ```
-Istražiu koja je razlika između `git switch` i `git checkout`?
+Istraži koja je razlika između `git switch` i `git checkout`?
 
 13. Koristite `git log --oneline --graph` i primijetite kako commit koji ste napravili na grani `moja_grana` nedostaje na grani `04_vjezba`.
 14. Napravite novu datoteku pod nazivom `tekst.txt` i commitajte tu datoteku.
