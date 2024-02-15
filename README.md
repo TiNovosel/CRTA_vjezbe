@@ -1,7 +1,7 @@
 # CRTA_vjezbe_02: Praćenje i vraćanje promjena
 
 1. Koji je sadržaj datoteke `file.txt`?
-(snalaženje u VIM uređivaću teksta)
+(snalaženje u VIM uređivaču teksta)
 ```sh
 sudo apt install vim
 vim file.txt
