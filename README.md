@@ -4,6 +4,7 @@ Potrebno je napraviti radnu mapu repozitorija te klonirati udaljeni repozitorij:
 mkdir as_git_vjezbe
 cd as_git_vjezbe
 git clone https://github.com/TiNovosel/CRTA_vjezbe.git
+cd CRTA_vjezbe
 git status
 ```
 
